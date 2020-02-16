@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">myQuiz</string>
+    <string name="questionOne">Lightning never strikes in the same place twice.</string>
+    <string name="questionTwo">If you cry in space the tears just stick to your face.</string>
+    <string name="questionThree">If you cut an earthworm in half, both halves can regrow their body.</string>
+    <string name="questionFour">Adults have fewer bones than babies do.</string>
+    <string name="questionFive">Birds are dinosaurs.</string>
+    <string name="questionSix"> Buzz Aldrin was the first man to urinate on the moon.</string>
+    <string name="questionSeven">Napoleon Bonaparte was extremely short</string>
+    <string name="questionEight">Goldfish only have a memory of three seconds.</string>
+    <string name="questionNine">Your fingernails and hair keep growing after you die.</string>
+
+
+    <string name="todo">TODO</string>
+    <string name="true_text">True</string>
+    <string name="false_text">False</string>
+    <string name="correct_answer">That\s Correct!</string>
+    <string name="wrong_answer">That\s Wrong!</string>
+    <string name="next_text">nextText</string>
+    <string name="result">result</string>
+</resources>
